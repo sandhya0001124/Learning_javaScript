@@ -74,4 +74,5 @@ let checkEligiblity=(age,citizenship)=>{
         console.log("Not eligible for vote");
     }
 }
+
 checkEligiblity(5,"indian")
