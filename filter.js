@@ -1,6 +1,6 @@
 let arr=[10,30, 55,22,56,89];
 
-let plyfillFilter=(cb)=>{
+let polyfillFilter=(cb)=>{
     let temp=[];
     for (let i = 0; i < arr.length; i++) {
     
